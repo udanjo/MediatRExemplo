@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/MediatRExemplo.Api/bin/Debug/net5.0
+/MediatRExemplo.Api/obj
+/MediatRExemplo.Api/Properties
+/MediatRExemplo.Domain/bin/Debug/net5.0
+/MediatRExemplo.Domain/obj
+/MediatRExemplo.Infra/bin/Debug/net5.0
+/MediatRExemplo.Infra/obj
